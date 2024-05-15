@@ -93,7 +93,7 @@ body * {
 }
 
 
-.light #switch button{
+.light #switch button {
     animation: slide-in 0.2s forwards;
 }
 
